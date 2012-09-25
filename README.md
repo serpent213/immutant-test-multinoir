@@ -1,12 +1,7 @@
 # webtest
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
-
-The choice is up to you!
-
-## Usage
-
-FIXME
+HTTP requests to `/webtest/gamma` and `/webtest/delta` yield identical
+results.
 
 ## License
 
